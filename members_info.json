@@ -1,0 +1,372 @@
+{
+  "ghett": {
+    "name": "ghett",
+    "last_name": null,
+    "gender": "male"
+  },
+  "Toxic_nebot": {
+    "name": "Toxic",
+    "last_name": null,
+    "gender": "male"
+  },
+  "VitalyGPT": {
+    "name": "VitalyGPT",
+    "last_name": null,
+    "gender": "male"
+  },
+  "rbyakov": {
+    "name": "Roman",
+    "last_name": null,
+    "gender": "male"
+  },
+  "IlyaAzarov": {
+    "name": "Ilya",
+    "last_name": "Azarov",
+    "gender": "female"
+  },
+  "syslogd": {
+    "name": "Aleksey K.",
+    "last_name": null,
+    "gender": "male"
+  },
+  "lulmatt": {
+    "name": "lulz",
+    "last_name": null,
+    "gender": "male"
+  },
+  "vadikgo": {
+    "name": "Vlad",
+    "last_name": null,
+    "gender": "male"
+  },
+  "OlegUshakov": {
+    "name": "Jktü",
+    "last_name": null,
+    "gender": "male"
+  },
+  "alex_dht": {
+    "name": "Alexander",
+    "last_name": "D.",
+    "gender": "male"
+  },
+  "Fil_Sen": {
+    "name": "Filipp",
+    "last_name": null,
+    "gender": "male"
+  },
+  "cheetahfm": {
+    "name": "Farit",
+    "last_name": null,
+    "gender": "male"
+  },
+  "nordluf": {
+    "name": "Evgeny",
+    "last_name": null,
+    "gender": "male"
+  },
+  "the_sorter": {
+    "name": "bubble",
+    "last_name": "shooter",
+    "gender": "male"
+  },
+  "aleksdevega": {
+    "name": "Alex",
+    "last_name": "Elkin🇪🇸",
+    "gender": "male"
+  },
+  "yyynnncompute": {
+    "name": "Sergio",
+    "last_name": "Sergio",
+    "gender": "male"
+  },
+  "iamjoric": {
+    "name": "Joric",
+    "last_name": null,
+    "gender": "male"
+  },
+  "anton_malyshev": {
+    "name": "Anton",
+    "last_name": "Malyshev",
+    "gender": "male"
+  },
+  "shieldy_bot": {
+    "name": "Shieldy",
+    "last_name": null,
+    "gender": "male"
+  },
+  "null": {
+    "name": "Rick",
+    "last_name": "Sanchez",
+    "gender": "male"
+  },
+  "Ronin_j": {
+    "name": "Ruslan",
+    "last_name": "J",
+    "gender": "male"
+  },
+  "spectrvm": {
+    "name": "Хтонический",
+    "last_name": "Ужас",
+    "gender": "male"
+  },
+  "transcriber_bot": {
+    "name": "Transcriber Bot",
+    "last_name": null,
+    "gender": "male"
+  },
+  "zubrdev": {
+    "name": "Denis",
+    "last_name": "Zubritskiy",
+    "gender": "male"
+  },
+  "AitiLar": {
+    "name": "Надежда",
+    "last_name": null,
+    "gender": "male"
+  },
+  "Sky_Laga": {
+    "name": "nvm",
+    "last_name": null,
+    "gender": "male"
+  },
+  "isenbaev": {
+    "name": "Vladislav",
+    "last_name": "🇺🇸🚜",
+    "gender": "male"
+  },
+  "ArtemK_us": {
+    "name": "Artem",
+    "last_name": "K",
+    "gender": "male"
+  },
+  "zzzebbra": {
+    "name": "Daria",
+    "last_name": null,
+    "gender": "female"
+  },
+  "Roci_Tachi": {
+    "name": "Rocinante",
+    "last_name": null,
+    "gender": "male"
+  },
+  "melonges": {
+    "name": "Melonges",
+    "last_name": null,
+    "gender": "male"
+  },
+  "vsratoslavbot": {
+    "name": "Всратослав",
+    "last_name": null,
+    "gender": "male"
+  },
+  "msgeekay": {
+    "name": "Gee",
+    "last_name": null,
+    "gender": "male"
+  },
+  "vadimcpp": {
+    "name": "Vadym",
+    "last_name": "Kaninskyi",
+    "gender": "male"
+  },
+  "TheSorter": {
+    "name": "The Sorter",
+    "last_name": null,
+    "gender": "male"
+  },
+  "ghettkoch": {
+    "name": "Vic Koch",
+    "last_name": null,
+    "gender": "male"
+  },
+  "agorodnev": {
+    "name": "Alexander",
+    "last_name": "Gorodnev",
+    "gender": "male"
+  },
+  "dva_kompota": {
+    "name": "Sergey",
+    "last_name": "Kolokolov",
+    "gender": "male"
+  },
+  "Dan2kkk": {
+    "name": "Dan 🇺🇦",
+    "last_name": null,
+    "gender": "male"
+  },
+  "maksim_protasevich": {
+    "name": "Maksim",
+    "last_name": null,
+    "gender": "male"
+  },
+  "s0mename": {
+    "name": "Some Name",
+    "last_name": null,
+    "gender": "male"
+  },
+  "tyrven": {
+    "name": "Ivan",
+    "last_name": "K.",
+    "gender": "male"
+  },
+  "polarbear6666": {
+    "name": "Emrah",
+    "last_name": "Шэньчжэнь",
+    "gender": "male"
+  },
+  "tpov_oleg": {
+    "name": "Oleg",
+    "last_name": "Vasylenko",
+    "gender": "male"
+  },
+  "dr_tur": {
+    "name": "Anastasia",
+    "last_name": null,
+    "gender": "female"
+  },
+  "aiicom": {
+    "name": "Aleksandr",
+    "last_name": null,
+    "gender": "male"
+  },
+  "s0me0ne": {
+    "name": "Самуан",
+    "last_name": "Ункновн",
+    "gender": "male"
+  },
+  "Kiru6ik": {
+    "name": "Kirill",
+    "last_name": "Evseev",
+    "gender": "male"
+  },
+  "Artikezwin": {
+    "name": "Артём",
+    "last_name": "Слуцкий",
+    "gender": "male"
+  },
+  "karzhas": {
+    "name": "Bakhtiyar",
+    "last_name": null,
+    "gender": "male"
+  },
+  "danya_zykov": {
+    "name": "Danya",
+    "last_name": null,
+    "gender": "female"
+  },
+  "RaGESSakurasouSD": {
+    "name": "Guiseppe",
+    "last_name": "Zaluppi",
+    "gender": "male"
+  },
+  "Tim860": {
+    "name": "Tim",
+    "last_name": null,
+    "gender": "male"
+  },
+  "rcr_tg": {
+    "name": "ReCreator",
+    "last_name": null,
+    "gender": "male"
+  },
+  "Funnysailor": {
+    "name": "Sergey",
+    "last_name": "Mordach",
+    "gender": "male"
+  },
+  "Eugene_Fr": {
+    "name": "Eugene",
+    "last_name": null,
+    "gender": "male"
+  },
+  "Dickfindbot": {
+    "name": "Найди писюн",
+    "last_name": null,
+    "gender": "male"
+  },
+  "unhappyemigrantbot": {
+    "name": "Анастасия Миронова",
+    "last_name": null,
+    "gender": "male"
+  },
+  "filedoesntExist": {
+    "name": "Aleksandr",
+    "last_name": "Khorev",
+    "gender": "male"
+  },
+  "den_backend": {
+    "name": "Denis",
+    "last_name": null,
+    "gender": "male"
+  },
+  "keepstronn": {
+    "name": "Arka",
+    "last_name": "Fill🚜🇬🇷",
+    "gender": "female"
+  },
+  "nbdnnm": {
+    "name": "Nobody",
+    "last_name": "Noname",
+    "gender": "male"
+  },
+  "idi_za_Sekhmet": {
+    "name": "Perverted Kitty 🇺🇦",
+    "last_name": null,
+    "gender": "male"
+  },
+  "Ro_Vl_Boy": {
+    "name": "Роман",
+    "last_name": "Бояркин",
+    "gender": "male"
+  },
+  "stazinski": {
+    "name": "Stanisłaū",
+    "last_name": "_",
+    "gender": "male"
+  },
+  "plslvr": {
+    "name": "Pavel",
+    "last_name": "Serebryakov",
+    "gender": "male"
+  },
+  "no_name_user_1": {
+    "name": ".",
+    "last_name": null,
+    "gender": "male"
+  },
+  "toxic_obot": {
+    "name": "Toxic",
+    "last_name": null,
+    "gender": "male"
+  },
+  "myscode": {
+    "name": "Ildar",
+    "last_name": "K 🪹",
+    "gender": "male"
+  },
+  "stom1407": {
+    "name": "Stom",
+    "last_name": null,
+    "gender": "male"
+  },
+  "PepegroundBot": {
+    "name": "pepeground_bot",
+    "last_name": null,
+    "gender": "male"
+  },
+  "dev17": {
+    "name": "dev",
+    "last_name": null,
+    "gender": "male"
+  },
+  "DmitryKormalev": {
+    "name": "Dmitry",
+    "last_name": "Kormalev",
+    "gender": "male"
+  },
+  "Vlad_i5_L0ve": {
+    "name": "𝓥𝓵𝓪𝓭 👽🎧🎹𓆏",
+    "last_name": null,
+    "gender": "male"
+  }
+}
